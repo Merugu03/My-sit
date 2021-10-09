@@ -28,7 +28,7 @@ a{
    font-family: 'Montserrat', sans-serif;
    margin: 10px 20px;
    text-decoration: none;
-} 
+}
 a:hover {
     color: #EAF6F6;
 }
@@ -40,6 +40,9 @@ hr {
 }
 p {
     line-height: 2;
+}
+.pro {
+    text-decoration: underline;
 }
 /******************** class selectors ****************/
 .top-container{
